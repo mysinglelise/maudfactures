@@ -1,5 +1,5 @@
 // Service Worker pour PWA
-const CACHE_NAME = 'mon-planning-v23';
+const CACHE_NAME = 'mon-planning-v24';
 const BASE_PATH = '/maudfactures';
 
 self.addEventListener('install', (event) => {
